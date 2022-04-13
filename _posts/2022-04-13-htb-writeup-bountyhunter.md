@@ -1,7 +1,7 @@
 ---
 layout: single
 title: Bounty Hunter - Hack The Box
-excerpt: "BountyHunter es una pagina facil donde debemos usar y explotar una vulnerabilidad XXE para obtener archivos que nos ayudan a obtener credenciales y conectarnos por SSH. Para la escalada de privilegios necesitaremos analizar un archivo en Python que es ejecutado como root, donde deberemos aprovecharnos del uso de la funcion 'eval' para ejecutar comandos."
+excerpt: "BountyHunter es una maquina facil de HackTheBox donde debemos usar y explotar una vulnerabilidad XXE para obtener archivos que nos ayudan a obtener credenciales y conectarnos por SSH. Para la escalada de privilegios necesitaremos analizar un archivo en Python que es ejecutado como root, donde deberemos aprovecharnos del uso de la funcion 'eval' para ejecutar comandos."
 date: 2022-04-13
 classes: wide
 header:
@@ -18,7 +18,7 @@ tags:
 
 ![](/assets/images/htb-writeup-bountyhunter/bountyhunter_logo.png)
 
-BountyHunter es una pagina facil donde debemos usar y explotar una vulnerabilidad XXE para obtener archivos que nos ayudan a obtener credenciales y conectarnos por SSH. Para la escalada de privilegios necesitaremos analizar un archivo en Python que es ejecutado como root, donde deberemos aprovecharnos del uso de la funcion 'eval' para ejecutar comandos.
+BountyHunter es una maquina facil de HackTheBox donde debemos usar y explotar una vulnerabilidad XXE para obtener archivos que nos ayudan a obtener credenciales y conectarnos por SSH. Para la escalada de privilegios necesitaremos analizar un archivo en Python que es ejecutado como root, donde deberemos aprovecharnos del uso de la funcion 'eval' para ejecutar comandos.
 
 ## Escaneo de puertos
 
