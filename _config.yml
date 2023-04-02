@@ -103,9 +103,9 @@ analytics:
 author:
   name             : "f0xtty"
   avatar           : "/assets/images/avatar.png"
-  bio              : "Pentester - OSCP OSEP OSWE"
+  bio              : "Pentester - OSCP OSEP OSWE OSED OSCE3"
   location         : "Chile"
-  email            : "admin@f0xtty.io"
+  email            : ""
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
